@@ -1,15 +1,3 @@
-
----
-license: mit
-tags:
-- regression
-- gradient-descent
-- sklearn
-- california-housing
-- early-stopping
-- polynomial-regression
----
-
 # SGD Regression Model – California Housing Dataset 🏡
 
 This is a regression model trained using Stochastic Gradient Descent (SGDRegressor) on the California Housing dataset. The model uses polynomial features, L2 regularization, and early stopping to optimize performance.
